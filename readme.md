@@ -125,4 +125,22 @@ Here are some popular bonus features that would affect your data structure plan:
 3. Can you enable a reset button to restart the race?
 4. How about a win counter that spans across multiple races?
 
-As you work, you can edit this README to add a section at the top with your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment. Push your updates to GitHub and add a link to the repo to the "My Work" section of your website!
+
+### Planning out the racing game
+start with objects
+Start with the story of the game
+
+### User Stories & Game Mechanics for racing game
+1. 2 player game or 1 player timed. 
+2. Play will be able to use arrow key up for jump and right arrow to move faster. 
+3. First to cross finish line wins game. 
+
+Objects. 
+  Player
+  Racetrack(screen)
+  Racecar
+  Obstruction objects (rock, another car, tree, etc) 
+  Finish line 
+  Timer
+  
+
