@@ -131,16 +131,18 @@ start with objects
 Start with the story of the game
 
 ### User Stories & Game Mechanics for racing game
-1. 2 player game or 1 player timed. 
-2. Play will be able to use arrow key up for jump and right arrow to move faster. 
-3. First to cross finish line wins game. 
+1. Player 1 - A (move foward 1), Q (jump foward). 
+2. Player 2 - L (move foward 1), O (jump foward).  
+3. Players move from left to right on screen. 
+4. Things will appear on route. Player needs to jump over thing. If collide, then 
+5. First to "cross" (or collide)  finish line wins game. 
 
-Objects. 
-  Player
-  Racetrack(screen)
-  Racecar
-  Obstruction objects (rock, another car, tree, etc) 
-  Finish line 
-  Timer
+Objects.
+Player Icon
+Racetrack(screen)
+
+Obstruction objects (rock, another car, tree, etc) 
+Finish line
+  
   
 
